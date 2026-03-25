@@ -1,0 +1,7 @@
+{
+  "prompt": "Aerial view editorial illustration of a vast crowd of hundreds of tiny human figures filling the entire frame, viewed from directly above. Every eighth figure stands in complete cold darkness — a deep shadow that isolates them completely — while the surrounding seven figures are bathed in warm amber light. The dark figures are scattered evenly throughout the crowd, never clustered together, always alone in their darkness surrounded by warmth they cannot reach. The contrast between warm golden light and cold blue-black shadow is extreme and deliberate. The crowd extends to every edge of the frame with no background visible — only people, light, and shadow. Mood: profound isolation inside togetherness, invisible suffering. Color palette: warm amber and honey gold for the lit figures, deep cold prussian blue-black for the shadowed ones. Bird's eye view, straight down. Painterly editorial illustration style. No text, no labels, no numbers, no legends, no chart elements, no icons, absolutely no words or letters anywhere in the image.",
+  "model": "Banana (Gemini Imagen)",
+  "dataset_name": "IHME Global Burden of Disease",
+  "dataset_url": "https://vizhub.healthdata.org/gbd-results/",
+  "insight": "1 in 8 people on Earth — over 1 billion — live with a mental health disorder, invisible among us in every crowd."
+}
